@@ -1,0 +1,13 @@
+{
+  "name": "mutate",
+  "description": "mutate a list of nodes into a single node",
+  "version": "1.0.0",
+  "repo": "component/mutate",
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "development": {
+    "component/assert": "*"
+  }
+}
